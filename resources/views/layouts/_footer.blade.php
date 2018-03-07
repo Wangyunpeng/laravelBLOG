@@ -6,7 +6,7 @@
 					<span class="divider"></span>
 				</div>
 				<p class="text-center">
-					<strong>Dieter Rams@wangyunpeng.com 备案号：</strong><a href="http://www.miitbeian.gov.cn" target="_blank">&nbsp;京ICP备13046217号</a>
+					<strong>by@wangyunpeng.com 备案号：</strong><a href="http://www.miitbeian.gov.cn" target="_blank">&nbsp;京ICP备13046217号</a>
 				</p>
 			</div>
 		</div>
